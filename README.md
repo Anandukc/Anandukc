@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anandu Kc</h1>
-<h3 align="center">A passionate AI Developer</h3>
+<h3 align="center"> AI Developer</h3>
 
 # About
 
