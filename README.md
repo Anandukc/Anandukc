@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm Anandu Kc</h1>
 <h3 align="center">A passionate AI Developer</h3>
 
+# About
+
+Greetings! I'm Anandu KC, currently thriving as an AI Developer at Grow AI. My journey is marked by a passion for artificial intelligence and a commitment to pushing the boundaries of what's possible.
+
+
+# Professional Experience
+
+🚀 Current Position: AI Developer at Grow AI
+
+In my role, I actively contribute to the development of cutting-edge AI solutions, applying my skills to drive innovation and tackle complex challenges.
+
+
+# Education
+
+🎓 Bachelor's Degree: B.Tech in Electrical And Electronics Engineering
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anandu-kc-88b339247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandu-kc-88b339247" height="30" width="40" /></a>
