@@ -3,7 +3,7 @@
 
 # About
 
-Greetings! I'm Anandu KC, currently thriving as an AI Developer at Grow AI. My journey is marked by a passion for artificial intelligence and a commitment to pushing the boundaries of what's possible.
+Greetings! I'm Anandu KC, i have over 1+ year working experience as AI Developer. My journey is marked by a passion for artificial intelligence and a commitment to pushing the boundaries of what's possible.
 
 
 # Professional Experience
